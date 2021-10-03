@@ -11,6 +11,10 @@ Upon completing a problem, upload a screenshot of the success screen on the Code
 To embed an image in the README.md, just add some HTML! (markdown will render some HTML)
 
 ```html
+<img width="400px" src="https://github.com/rogerloya/codewars-extravaganza/blob/main/Screen%20Shot%202021-09-30%20at%2018.59.30.png?raw=true" />
+<img width="400px" src="./success-screen-1.jpg" />
+<img width="400px" src="./success-screen-1.jpg" />
+<img width="400px" src="./success-screen-1.jpg" />
 <img width="400px" src="./success-screen-1.jpg" />
 ```
 
